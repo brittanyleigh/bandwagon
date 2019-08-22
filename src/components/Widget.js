@@ -124,7 +124,7 @@ class Widget extends React.Component {
           </button>
         </div>
 
-        <img className="border border-solid border-gray-500" src={currentImage} />
+        <img className="border border-solid border-gray-500" src={currentImage} alt={`black and white ${categories[currentAction].action}`}/>
       </div>
     )
   }
