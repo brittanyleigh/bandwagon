@@ -1,0 +1,8 @@
+@import url(tailwind.css);
+.full-screen-height {
+  min-height: 100vh; }
+
+.bg-gray {
+  background-image: url("../img/gray-bg.jpg"); }
+
+/*# sourceMappingURL=style.css.map */
