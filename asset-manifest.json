@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bandwagon/static/css/main.753cedd9.chunk.css",
+    "main.js": "/bandwagon/static/js/main.9148a977.chunk.js",
+    "main.js.map": "/bandwagon/static/js/main.9148a977.chunk.js.map",
+    "runtime~main.js": "/bandwagon/static/js/runtime~main.a696ac13.js",
+    "runtime~main.js.map": "/bandwagon/static/js/runtime~main.a696ac13.js.map",
+    "static/js/2.1608a74c.chunk.js": "/bandwagon/static/js/2.1608a74c.chunk.js",
+    "static/js/2.1608a74c.chunk.js.map": "/bandwagon/static/js/2.1608a74c.chunk.js.map",
+    "index.html": "/bandwagon/index.html",
+    "precache-manifest.087a2c30f2e09fb8ecd3851569d411d1.js": "/bandwagon/precache-manifest.087a2c30f2e09fb8ecd3851569d411d1.js",
+    "service-worker.js": "/bandwagon/service-worker.js",
+    "static/css/main.753cedd9.chunk.css.map": "/bandwagon/static/css/main.753cedd9.chunk.css.map",
+    "static/media/style.css": "/bandwagon/static/media/gray-bg.42139d3e.jpg"
+  }
+}
